@@ -1,0 +1,44 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor directories
+.vscode/
+.idea/
+*.sublime-*
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# PDF (optional - commit final versions only)
+# *.pdf
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+~$*
+
+# Node modules (if any scripts)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Build directories
+build/
+dist/
+out/
