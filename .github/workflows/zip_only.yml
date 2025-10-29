@@ -1,20 +1,28 @@
-name: Build ZIP Only
+name: Build Complete Export
 
 on:
   workflow_dispatch:
-
-permissions:
-  contents: write
+    inputs:
+      include_grants:
+        description: 'Include grant templates?'
+        required: false
+        default: 'true'
 
 jobs:
-  zip:
+  build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Create ZIP
+
+      - name: Build full export
         run: |
-          zip -r AIUZ_Complete_Export.zip .
-      - name: Upload ZIP
+          mkdir -p out
+          cp -r . out/
+          rm -rf out/.git out/.github
+          cd out && zip -r ../AIUZ_Complete_Export.zip .
+          cd .. && echo "ZIP created"
+
+      - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: AIUZ_Complete_Export
