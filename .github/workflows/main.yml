@@ -1,4 +1,5 @@
-name: Build Complete Terra Ecosystem Export
+on:
+  workflow_dispatch:name: Build Complete Terra Ecosystem Export
 
 on:
   workflow_dispatch:
