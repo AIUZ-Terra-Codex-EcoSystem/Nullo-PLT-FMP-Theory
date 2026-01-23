@@ -42,3 +42,8 @@ Please cite as:
 ✅ Ready for upload as supplementary material to Zenodo record **10.5281/zenodo.17452566**.
 This ensures that all related publications under the AIUZ Terra Ecosystem are linked, cross-verified, and machine-readable for academic databases.
 
+---
+<!-- TERRA_IDENTITY_POSTFIX v1 -->
+**Contact:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
+
