@@ -241,3 +241,9 @@ N(z) = z² + c, где c = Nullo (начальное условие)
 **Автор**: Абдурашид Абдукаримов  
 **Дата**: Октябрь 2025  
 **Лицензия**: CC-BY-SA 4.0
+
+---
+<!-- TERRA_IDENTITY_POSTFIX v1 -->
+**Contact:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
+
