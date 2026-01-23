@@ -2741,3 +2741,9 @@ Young, I. M. (2000). *Inclusion and democracy*. Oxford University Press.
 Ziman, J. (2000). *Real science: What it is and what it means*. Cambridge University Press.
 
 Zuber-Skerritt, O. (Ed.). (1996). *New directions in action research*. Falmer Press.
+
+---
+<!-- TERRA_IDENTITY_POSTFIX v1 -->
+**Contact:** a.abdukarimov@fractal-metascience.org
+**ORCID:** 0009-0000-6394-4912
+
