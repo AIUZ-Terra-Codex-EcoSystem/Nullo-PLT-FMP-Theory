@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it."
+message: "If you use or quote this theory layer, please cite it as below."
 type: software
 title: "Nullo-PLT-FMP-Theory"
 authors:
@@ -11,10 +11,10 @@ repository-code: "https://github.com/AIUZ-Terra-Codex-EcoSystem/Nullo-PLT-FMP-Th
 url: "https://fractal-metascience.org"
 keywords:
   - fractal-metascience
-  - fmp
-  - open-science
-  - uzbekistan
+  - nullo
+  - plt
+  - theory
+  - epistemology
 license: CC-BY-4.0
 date-released: "2026-03-04"
 version: "1.0.0"
-# doi: will be auto-set by zenodo-release.yml on next release
